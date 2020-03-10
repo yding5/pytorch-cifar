@@ -1,2 +1,3 @@
 data/
 checkpoint/
+*_pycache_*
